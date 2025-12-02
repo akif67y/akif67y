@@ -29,14 +29,14 @@ This is **Ahnaf Akif**, a **Sophomore Year (Level-2, Term-1) CS Undergraduate St
     <img src="https://img.shields.io/badge/GitHub-akif67y-black?style=flat-square&logo=github" alt="GitHub" height="22"/>
   </a>
   <a href="https://www.linkedin.com/in/ahnaf-akif-49a929363/" target="_blank" style="margin-right: 10px;" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-akif67y-blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="22"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ahnaf Akif-blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="22"/>
   </a>
   
   <a href="https://www.facebook.com/ahnaf.ahnafakif/" target="_blank" style="margin-right: 10px;" title="Facebook">
-    <img src="https://img.shields.io/badge/Facebook-akif67y-blue?style=flat-square&logo=facebook" alt="Facebook" height="22"/>
+    <img src="https://img.shields.io/badge/Facebook-Ahnaf Akif-blue?style=flat-square&logo=facebook" alt="Facebook" height="22"/>
   </a>
   <a href="https://codeforces.com/profile/akif078" target="_blank" title="Codeforces">
-    <img src="https://img.shields.io/badge/Codeforces-akif67y-blue?style=flat-square" alt="Codeforces" height="22"/>
+    <img src="https://img.shields.io/badge/Codeforces-akif078-blue?style=flat-square" alt="Codeforces" height="22"/>
   </a>
   
 </div>
