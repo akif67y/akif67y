@@ -9,7 +9,8 @@ COPIED FROM ASIF AZAD BHAI'S PROFILE
 ![](https://komarev.com/ghpvc/?username=akif67y&color=brightgreen)
 
 
-This is **Ahnaf Akif**, a **Sophomore Year (Level-2, Term-1) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
+I am **Ahnaf Akif**, a **Sophomore Year (Level-2, Term-1) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
+I love watching movies and new challenges. 
 
 ## Profile Overview
 
