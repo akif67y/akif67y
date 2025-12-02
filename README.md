@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akif67ye&layout=compact&theme=dark" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akif67y&layout=compact&theme=dark" alt="Languages" />
 </div>
