@@ -36,7 +36,7 @@ This is **Ahnaf Akif**, a **Sophomore Year (Level-2, Term-1) CS Undergraduate St
     <img src="https://img.shields.io/badge/Facebook-akif67y-blue?style=flat-square&logo=facebook" alt="Facebook" height="22"/>
   </a>
   <a href="https://codeforces.com/profile/akif078" target="_blank" title="Codeforces">
-    <img src="https://img.shields.io/badge/Codeforces-ShadmanSShuvo-blue?style=flat-square" alt="Codeforces" height="22"/>
+    <img src="https://img.shields.io/badge/Codeforces-akif67y-blue?style=flat-square" alt="Codeforces" height="22"/>
   </a>
   
 </div>
