@@ -10,7 +10,7 @@ COPIED FROM ASIF AZAD BHAI'S PROFILE
 
 
 I am **Ahnaf Akif**, a **Sophomore Year (Level-2, Term-1) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
-I love watching movies and new challenges. 
+I love **Learning** new things and **Watching** old movies. 
 
 ## Profile Overview
 
